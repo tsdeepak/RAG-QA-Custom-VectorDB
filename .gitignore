@@ -127,7 +127,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.chainlit
+.chainlit/
+chainlit/
+wandb/
+wandb
 # Spyder project settings
 .spyderproject
 .spyproject
